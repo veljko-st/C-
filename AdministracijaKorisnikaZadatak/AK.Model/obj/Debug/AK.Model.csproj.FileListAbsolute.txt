@@ -1,0 +1,6 @@
+E:\IT Akademy\WPF\AK.Model\bin\Debug\AK.Model.dll
+E:\IT Akademy\WPF\AK.Model\bin\Debug\AK.Model.pdb
+E:\IT Akademy\WPF\AK.Model\obj\Debug\AK.Model.csproj.AssemblyReference.cache
+E:\IT Akademy\WPF\AK.Model\obj\Debug\AK.Model.csproj.CoreCompileInputs.cache
+E:\IT Akademy\WPF\AK.Model\obj\Debug\AK.Model.dll
+E:\IT Akademy\WPF\AK.Model\obj\Debug\AK.Model.pdb
